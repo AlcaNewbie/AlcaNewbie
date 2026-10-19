@@ -23,7 +23,7 @@
 ```bash
 $ cat << 'EOF' > identity.json
 {
-  "developer": "Muhammad Wahid (AlcaCeder / HidzzY)",
+  "developer": "Alca W44 ( HidzzY _",
   "account_type": "Secondary / Dedicated Lab",
   "specialization": ["Web Scraping", "Automation Scripts", "Data Extraction", "Bypass Techniques"],
   "motto": "Turning unstructured web chaos into clean structured JSON."
