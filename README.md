@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![AlcaNewbie](https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/main/banner/banner.gif)
+  <img src="./banner/banner.gif" alt="AlcaNewbie Banner" width="100%" />
 
   <br/>
 
