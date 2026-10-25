@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![AlcaNewbie](https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/main/img/banner.svg)
+  ![AlcaNewbie]([https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/main/img/banner.svg](https://github.com/AlcaNewbie/AlcaNewbie/blob/ffb01e43f6a8145843de994026ec882851423586/main/banner/banner.gif))
 
   <br/>
 
