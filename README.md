@@ -99,11 +99,11 @@ Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Uti
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=AlcaNewbie&theme=tokyonight&hide_border=true" alt="AlcaNewbie Streak Stats" />
-
+  <img src="./main/banner/banner.gif" alt="AlcaNewbie Banner" width="350" />
+  
   <br/><br/>
 
-  <img src="./main/banner/banner.gif" alt="AlcaNewbie Banner" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=AlcaNewbie&theme=tokyonight&hide_border=true" alt="AlcaNewbie Streak Stats" />
 
 </div>
 
