@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner/banner.gif" alt="AlcaNewbie Banner" width="100%" />
+  <img src="./main/banner/banner.gif" alt="AlcaNewbie Banner" width="100%" />
 
   <br/>
 
