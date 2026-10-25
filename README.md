@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="./main/banner/banner.gif" alt="AlcaNewbie Banner" width="350" />
-
-  <br/>
-
   <img src="https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
   <br/>
@@ -104,6 +100,10 @@ Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Uti
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=AlcaNewbie&theme=tokyonight&hide_border=true" alt="AlcaNewbie Streak Stats" />
+
+  <br/><br/>
+
+  <img src="./main/banner/banner.gif" alt="AlcaNewbie Banner" width="50%" />
 
 </div>
 
