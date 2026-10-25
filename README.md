@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![AlcaNewbie]([https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/main/img/banner.svg](https://github.com/AlcaNewbie/AlcaNewbie/blob/ffb01e43f6a8145843de994026ec882851423586/main/banner/banner.gif))
+  ![AlcaNewbie](https://raw.githubusercontent.com/AlcaNewbie/AlcaNewbie/main/banner/banner.gif)
 
   <br/>
 
@@ -38,7 +38,7 @@ EOF
 Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Utilities**. Fokus utama pada analisis struktur DOM, pengolahan data mentah, serta optimasi otomatisasi alur kerja web.
 
 * ⚙️ **Core Activities:** Menulis crawler/scraper skala presisi, bot otomatisasi, dan skrip pembantu sistem.
-* 📦 **Code Repository:** Cuplikan kode, algoritma scraping, dan skrip siap pakai rutin dipublikasikan di **[diPastebin](https://dipastebin.web.id/@h1dzzz)**.
+* 📦 **Code Repository:** Cuplikan kode, algoritma scraping, dan skrip siap pakai rutin dipublikasikan di **[GitHub Gist](https://gist.github.com/AlcaNewbie)**.
 * 💬 **Ask me about:** JavaScript/Python Automation, DOM Traversing, XPath/CSS Selectors, dan anti-bot bypass logic.
 
 ---
@@ -112,8 +112,8 @@ Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Uti
 ### 📱 Connect & Socials
 
 <p align="center">
-  <a href="https://dipastebin.web.id/@h1dzzz">
-    <img src="https://img.shields.io/badge/PASTEBIN-111111?style=for-the-badge&logo=pastebin&logoColor=white" alt="diPastebin" />
+  <a href="https://gist.github.com/AlcaNewbie">
+    <img src="https://img.shields.io/badge/GITHUB_GIST-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gist" />
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@w.hizz">
