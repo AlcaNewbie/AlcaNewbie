@@ -94,8 +94,8 @@ Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Uti
 
   <p style="font-family: monospace; color: #00FF00;"><b>> Fetching GitHub Activity ...</b></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AlcaNewbie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=discussions_answered,prs_reviewed&show=reviews,prs_merged,commits&rank_icon=github" alt="AlcaNewbie Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlcaNewbie&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlcaNewbie&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" alt="AlcaNewbie Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlcaNewbie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Langs" height="165" />
 
   <br/><br/>
 
@@ -103,7 +103,7 @@ Secondary workspace khusus untuk **Web Scraping, Automation Bots, dan System Uti
   
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=AlcaNewbie&theme=tokyonight&hide_border=true" alt="AlcaNewbie Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=AlcaNewbie&theme=tokyonight&hide_border=true&v=1" alt="AlcaNewbie Streak Stats" />
 
 </div>
 
